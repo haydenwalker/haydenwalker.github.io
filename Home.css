@@ -422,12 +422,12 @@
 .u-section-3 .u-layout-wrap-1 {
   margin-top: 60px;
   margin-bottom: 0;
-  position: relative;
 }
 
 .u-section-3 .u-image-1 {
   min-height: 400px;
   background-image: url("images/Entry.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -458,6 +458,10 @@
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
     min-height: 390px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    position: relative;
   }
 
   .u-section-3 .u-image-1 {
