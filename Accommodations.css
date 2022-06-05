@@ -101,12 +101,12 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 380px;
+  min-height: 100vh;
 }
 
 .u-section-2 .u-layout-wrap-1 {
   margin-top: 21px;
-  margin-bottom: 21px;
+  margin-bottom: 0;
 }
 
 .u-section-2 .u-layout-cell-1 {
