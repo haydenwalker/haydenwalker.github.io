@@ -633,133 +633,137 @@
 .u-section-5 .u-repeater-1 {
   grid-gap: 10px 10px;
   grid-template-columns: calc(50% - 5px) calc(50% - 5px);
-  min-height: 585px;
+  min-height: 589px;
 }
 
 .u-section-5 .u-container-layout-3 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-5 .u-text-1 {
   font-size: 1.5rem;
-  margin: 12px 0 0 auto;
+  margin: 0 0 0 auto;
+}
+
+.u-section-5 .u-list-item-2 {
+  background-image: none;
 }
 
 .u-section-5 .u-container-layout-4 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-5 .u-text-2 {
   font-size: 1.5rem;
-  margin: 12px 0 0 auto;
+  margin: 0 0 0 auto;
 }
 
 .u-section-5 .u-container-layout-5 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-5 .u-text-3 {
   font-size: 1.5rem;
-  margin: 12px 0 0 auto;
+  margin: 0 0 0 auto;
 }
 
 .u-section-5 .u-container-layout-6 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-5 .u-text-4 {
   font-size: 1.5rem;
-  margin: 12px 0 0 auto;
+  margin: 0 0 0 auto;
 }
 
 .u-section-5 .u-container-layout-7 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-5 .u-text-5 {
   font-size: 1.5rem;
-  margin: 12px 0 0 auto;
+  margin: 0 0 0 auto;
 }
 
 .u-section-5 .u-container-layout-8 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-5 .u-text-6 {
   font-size: 1.5rem;
-  margin: 12px 0 0 auto;
+  margin: 0 0 0 auto;
 }
 
 .u-section-5 .u-container-layout-9 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-5 .u-text-7 {
   font-size: 1.5rem;
-  margin: 12px 0 0 auto;
+  margin: 0 0 0 auto;
 }
 
 .u-section-5 .u-container-layout-10 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-5 .u-text-8 {
   font-size: 1.5rem;
-  margin: 12px 0 0 auto;
+  margin: 0 0 0 auto;
 }
 
 .u-section-5 .u-container-layout-11 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-5 .u-text-9 {
   font-size: 1.5rem;
-  margin: 12px 0 0 auto;
+  margin: 0 0 0 auto;
 }
 
 .u-section-5 .u-container-layout-12 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-5 .u-text-10 {
   font-size: 1.5rem;
-  margin: 12px 0 0 auto;
+  margin: 0 0 0 auto;
 }
 
 .u-section-5 .u-container-layout-13 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-5 .u-text-11 {
   font-size: 1.5rem;
-  margin: 12px 0 0 auto;
+  margin: 0 0 0 auto;
 }
 
 .u-section-5 .u-container-layout-14 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-5 .u-text-12 {
   font-size: 1.5rem;
-  margin: 12px 0 0 auto;
+  margin: 0 0 0 auto;
 }
 
 .u-section-5 .u-container-layout-15 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-5 .u-text-13 {
   font-size: 1.5rem;
-  margin: 12px 0 0 auto;
+  margin: 0 0 0 auto;
 }
 
 .u-section-5 .u-container-layout-16 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-5 .u-text-14 {
   font-size: 1.5rem;
-  margin: 12px 0 0 auto;
+  margin: 0 0 0 auto;
 }
 
 @media (max-width: 1199px) {
@@ -788,7 +792,7 @@
   }
 
   .u-section-5 .u-repeater-1 {
-    min-height: 552px;
+    min-height: 556px;
   }
 }
 
@@ -819,10 +823,6 @@
     width: auto;
     margin-right: initial;
     margin-left: initial;
-  }
-
-  .u-section-5 .u-repeater-1 {
-    min-height: 844px;
   }
 
   .u-section-5 .u-text-1 {
@@ -911,10 +911,6 @@
     padding-right: 10px;
     padding-bottom: 0;
   }
-
-  .u-section-5 .u-repeater-1 {
-    min-height: 537px;
-  }
 }
 
 @media (max-width: 575px) {
@@ -943,10 +939,6 @@
     margin-left: initial;
   }
 
-  .u-section-5 .u-repeater-1 {
-    min-height: 497px;
-  }
-
   .u-section-5 .u-container-layout-3 {
     padding-bottom: 5px;
   }
@@ -955,11 +947,11 @@
     padding-bottom: 5px;
   }
 
-  .u-section-5 .u-container-layout-5 {
+  .u-section-5 .u-container-layout-6 {
     padding-bottom: 5px;
   }
 
-  .u-section-5 .u-container-layout-6 {
+  .u-section-5 .u-container-layout-7 {
     padding-bottom: 5px;
   }
 
@@ -967,19 +959,19 @@
     padding-bottom: 5px;
   }
 
-  .u-section-5 .u-container-layout-9 {
-    padding-bottom: 5px;
-  }
-
   .u-section-5 .u-container-layout-10 {
     padding-bottom: 5px;
   }
 
-  .u-section-5 .u-container-layout-12 {
+  .u-section-5 .u-container-layout-11 {
     padding-bottom: 5px;
   }
 
   .u-section-5 .u-container-layout-13 {
+    padding-bottom: 5px;
+  }
+
+  .u-section-5 .u-container-layout-14 {
     padding-bottom: 5px;
   }
 
